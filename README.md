@@ -34,12 +34,12 @@ title: Blogging Like a Hacker
 ---// 
 
 //---
-title: Using YAML front matter
-date: 2016-03-15T02:49:00+00:00
-excerpt: "YAML variables can be referenced via liquid tags to add content to template files."
-layout: codelog
-permalink: /using-yaml-front-matter/
-topic: Jekyll
+title: Using YAML front matter      
+date: 2016-03-15T02:49:00+00:00     
+excerpt: "YAML variables can be referenced via liquid tags to add content to template files."     
+layout: codelog     
+permalink: /using-yaml-front-matter/      
+topic: Jekyll     
 ---// 
 
 
@@ -49,7 +49,7 @@ Tyto proměnné budou k dispozici pro přístup ke značkám Liquid, a to jak d�
 že daná stránka nebo příspěvek jsou spolehlivé.
 
 
-Zdroje/Resources
-https://protesilaos.com/codelog/using-yaml-front-matter/
-https://jekyllrb.com/docs/frontmatter/
-https://www.npmjs.com/package/yaml-front-matter
+Zdroje/Resources:       
+https://protesilaos.com/codelog/using-yaml-front-matter/        
+https://jekyllrb.com/docs/frontmatter/        
+https://www.npmjs.com/package/yaml-front-matter       
