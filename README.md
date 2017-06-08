@@ -28,9 +28,9 @@ Každý soubor, který obsahuje blok YAML front matter, bude Jekyll zpracovávat
 Front matter musí být první věcí v souboru a musí mít podobu platné hodnoty YAML, která je nastavená mezi třemi přerušovanými čárami. 
 Příklady:
 
-//---
-layout: post
-title: Blogging Like a Hacker
+//---     
+layout: post      
+title: Blogging Like a Hacker     
 ---// 
 
 //---
